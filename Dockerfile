@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.15
 
 MAINTAINER Alex Iankoulski <alex_iankoulski@yahoo.com>
 
